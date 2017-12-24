@@ -1,0 +1,55 @@
+<web-app>
+ <servlet>
+       <servlet-name>fallback</servlet-name>
+	   <servlet-class>com.nt.servlet.FallbackServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+           <servlet-name>fallback</servlet-name>
+		   <url-pattern>/</url-pattern>
+   </servlet-mapping>
+  <servlet>
+       <servlet-name>plain</servlet-name>
+	   <servlet-class>com.nt.servlet.PlainServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+           <servlet-name>plain</servlet-name>
+		   <url-pattern>/test2</url-pattern>
+   </servlet-mapping>
+    <servlet>
+       <servlet-name>html</servlet-name>
+	   <servlet-class>com.nt.servlet.HtmlServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+           <servlet-name>html</servlet-name>
+		   <url-pattern>/test1</url-pattern>
+   </servlet-mapping>
+     
+       <servlet>
+       <servlet-name>word</servlet-name>
+	   <servlet-class>com.nt.servlet.WordServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+           <servlet-name>word</servlet-name>
+		   <url-pattern>/wdurl</url-pattern>
+   </servlet-mapping>
+    <servlet>
+       <servlet-name>excel</servlet-name>
+	   <servlet-class>com.nt.servlet.ExcelServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+           <servlet-name>excel</servlet-name>
+		   <url-pattern>/xlsurl</url-pattern>
+   </servlet-mapping>
+
+    <servlet>
+       <servlet-name>xml</servlet-name>
+	   <servlet-class>com.nt.servlet.XmlServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+           <servlet-name>xml</servlet-name>
+		   <url-pattern>/xmlurl</url-pattern>
+   </servlet-mapping>
+
+ 
+
+</web-app>

@@ -1,0 +1,7 @@
+
+<web-app>
+  <display-name>WAOne-CC1</display-name>
+  <welcome-file-list>
+    <welcome-file>form.html</welcome-file>
+  </welcome-file-list>
+</web-app>

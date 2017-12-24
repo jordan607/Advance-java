@@ -1,0 +1,71 @@
+
+
+<h1 style="color:red;text-align:center">Html-Servlet communication(All form comps)</h1>
+
+<form action="formurl" method="GET">
+  <table border='0' align='center'>
+    <tr>
+       <td>name:: </td>
+       <td><input type='text' name='pname' placeholder="enter name"></td>
+    </tr>
+    <tr>
+       <td>age:: </td>
+       <td><input type='password' name='page'></td>
+    </tr>
+    <tr>
+       <td>Address:: </td>
+       <td><textarea name='addrs' rows="5" cols="10">
+              enter address
+           </textarea>
+        </td>
+    </tr>
+    <tr>
+       <td>Gender </td>
+       <td>
+          <input type='radio' name='gender' value='M' checked>Male &nbsp;&nbsp;
+          <input type='radio' name='gender' value='F' >FeMale
+       </td>
+    </tr>
+     <tr>
+       <td>Marital Status::</td>
+       <td>
+          <input type='checkbox' name='ms' value='married'>Married
+       </td>
+    </tr>
+    <tr>
+       <td>Qualification</td>
+       <td>
+          <select name="qlfy" >
+            <option value=''>--Select a value--</option>
+            <option value='engg'>B.E/B.Tech</option>
+            <option value='medico'>MBBS</option>
+            <option value='arts'>B.A/M.A</option>
+            <option value='commerce'>B.com/M.com</option>
+          </select>
+       </td>
+    </tr>
+    <tr>
+       <td>Courses</td>
+       <td>
+          <select name="courses" multiple size="3" >
+            <option value='java'>Java PKG</option>
+            <option value='.net'>.Net PKG</option>
+            <option value='php'>PHP PKG</option>
+            <option value='oracle'>Oracle PKG</option>
+          </select>
+       </td>
+    </tr>
+    <tr>
+       <td>Hobies</td>
+       <td>
+         <input type='checkbox' name="hb" value="sleeping">Meditation &nbsp;&nbsp;
+         <input type='checkbox' name="hb" value="roaming">Travelling
+         <input type='checkbox' name="hb" value="reading" checked>Book Reading
+       </td>
+    </tr>
+    <tr>
+       <td><input type='submit' value='regiser'/></td>
+       <td><input type='reset' value='cancel'></td>
+    </tr>
+  </table>
+</form>

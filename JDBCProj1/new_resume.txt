@@ -1,0 +1,21 @@
+Thank you Hari Krishna sir and Natraj sir for giving me indepth knowledge of core java and advanced java for which i got selected as a java developer in my first interview at ICT health care bangalore.
+
+Basically i am Currently running 9AM harikrishna sir and NTAJ48 i.e 4pm advanced java student and somehow i am going to missed both legend faculty classes but if i got any chance to attend online session of HK and natraj sir then definitely i am going to attend becoz i enjoy classes alot.
+
+summary about my interview
+step 1:-20 core java question + 5 servlet question + 5 Oracle question------selected due to core java correct ans(i guess)
+step 2 :-GD round 6 in a group
+step 3: -the technical round which i grap 70 % time in my group due java
+
+from core java
+1-write implementation of list with example(i am unable write program completely but still interviewer satisfy as i am fresher)
+2-explain about abstract class
+
+after 2 nd question he directly switched to servlet part
+1.difference between doGet() and doDelete()
+2.when u used doDelete() method ?
+
+when i answer this question just as explain by natraj sir through jerllastic web hosting
+interviewer enjoyed like anything and given offer lette
+
+Thank you sir again ,really i feel sad that i am going to missed Harikrishna sir and Natraj sir classes..

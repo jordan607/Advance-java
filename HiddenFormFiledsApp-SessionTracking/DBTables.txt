@@ -1,0 +1,8 @@
+SQL> desc hidden_person_Tab;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ NAME                                               VARCHAR2(10)
+ FNAME                                              VARCHAR2(10)
+ MS                                                 VARCHAR2(10)
+ F2VAL1                                             VARCHAR2(20)
+ F2VAL2                                             VARCHAR2(20)

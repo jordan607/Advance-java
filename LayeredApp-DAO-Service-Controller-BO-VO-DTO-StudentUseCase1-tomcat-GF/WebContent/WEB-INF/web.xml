@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>LayeredApp-DAO-Service-Controller-BO-VO-DTO-StudentUseCase</display-name>
+  <welcome-file-list>
+    <welcome-file>form.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
